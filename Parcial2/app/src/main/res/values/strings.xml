@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="tv_Mostrar_String">Seleciona una mascota</string>
+    <string name="descripcion">Descripcion</string>
+</resources>
